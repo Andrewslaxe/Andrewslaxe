@@ -26,10 +26,10 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Andrewslaxe&hide=contribs,prs&theme=radical&" height="150">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Andrewslaxe&hide_progress=true&theme=radical" height="150">
 </p>
+-->
 
 <!--
 **Andrewslaxe/Andrewslaxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
